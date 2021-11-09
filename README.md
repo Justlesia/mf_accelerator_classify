@@ -1,5 +1,4 @@
-# Задание для поступления в Акселератор Стажёров 
-# MegaFon Accelerator
+# Решение соревнования на Kaggle для MegaFon Accelerator
 
 ## Описание
 
